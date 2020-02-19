@@ -4622,6 +4622,7 @@ dt {
     position: relative;
     bottom: 590px;
     background: url("../images/wallfooterfon.jpg");
+    margin-bottom: -590px;
   }
   .logo {
     position: relative;
