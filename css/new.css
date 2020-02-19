@@ -109,9 +109,9 @@ body img {
   background-repeat: no-repeat;
   background-size: 100%;
   position: relative;
-  bottom: 670px;
+  bottom: 590px;
   background: url("../images/wallfooterfon.jpg");
-  margin-bottom: -578px;
+  margin-bottom: -661px;
 }
 .logo {
   position: relative;
@@ -986,7 +986,7 @@ dt {
     background-repeat: no-repeat;
     background-size: 100%;
     position: relative;
-    bottom: 590px;
+    bottom: 670px;
     background: url("../images/wallfooterfon.jpg");
   }
   .logo {
