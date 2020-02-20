@@ -6266,24 +6266,30 @@ dt {
     font-size: 17px;
     font-family: latoregular;
   }
-  .porttext {
-    position: absolute;
-    left: 0px;
-    top: 130px;
-    padding: 3%;
-  }
-  .porttext h1 {
-    color: #019edb;
-    font-family: latoblack;
-    position: relative;
-    top: 31px;
-  }
-  .porttext h6 {
-    color: #1b1b1b;
-    font-family: latoregular;
-  }
-  .porttext rb {
-    position: relative;
-    top: 3px;
-  }
-}
+  .porttext{
+		position: absolute;	
+		left: 0px;
+		top: 130px;
+		padding:3%;
+		h1{
+		color: @maincolor2;
+		font-family: latoblack;
+		position: relative;
+		top: 7px;
+		font-size: 14px;
+		
+		}
+		h6{
+			position: relative;
+		bottom: 20px;
+		color: @porttextcolor;
+		font-family: latoregular;
+		}
+		rb{
+			position: relative;
+			top: 3px;
+		}
+		}
+  
+  
+
