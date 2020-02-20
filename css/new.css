@@ -5092,9 +5092,7 @@ dt {
     display: flex;
     flex-wrap: nowrap;
   }
-  .portfolio img {
-    width: 33.333%;
-  }
+  
   .imblock2 {
     position: relative;
     left: 300px;
@@ -5124,10 +5122,7 @@ dt {
     display: flex;
     flex-wrap: wrap;
   }
-  .portfolio img {
-    width: 33.333%;
-    background-size: @bgsize;
-   }
+  
   .imblock1 {
     position: relative;
     left: 0px;
