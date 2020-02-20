@@ -6281,7 +6281,7 @@ dt {
 		}
 		h6{
 			position: relative;
-		bottom: 20px;
+		bottom: 16px;
 		color: @porttextcolor;
 		font-family: latoregular;
 		}
