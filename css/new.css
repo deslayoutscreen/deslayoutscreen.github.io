@@ -5170,11 +5170,12 @@ dt {
   .porttext h6 {
     color: #1b1b1b;
     font-family: latoregular;
-    margin-bottom:33px;
+    position:relative;
+    bottom:55px;
   }
   .porttext rb {
     position: relative;
-    top: 3px;
+    top: -10px;
   }
   .porthombus {
     width: 85px;
