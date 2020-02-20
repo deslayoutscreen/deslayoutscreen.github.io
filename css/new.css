@@ -5170,6 +5170,7 @@ dt {
   .porttext h6 {
     color: #1b1b1b;
     font-family: latoregular;
+    margin-bottom:33px;
   }
   .porttext rb {
     position: relative;
