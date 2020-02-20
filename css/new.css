@@ -5159,13 +5159,13 @@ dt {
   .porttext {
     position: absolute;
     left: 0px;
-    top: 93px;
+    top: 73px;
     padding: 3%;
   }
   .porttext h1 {
     color: #019edb;
     font-family: latoblack;
-    margin-top:40px;
+    margin-top:70px;
   }
   .porttext h6 {
     color: #1b1b1b;
