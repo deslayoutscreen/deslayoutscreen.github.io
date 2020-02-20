@@ -1046,6 +1046,7 @@ dt {
   body img {
     max-width: 100%;
     height: auto;
+    transition: 0.75s;
   }
   #responsive-box {
     height: auto;
@@ -1100,6 +1101,7 @@ dt {
     background-size: 100%;
     background-repeat: no-repeat;
     background-color: #000000;
+    transition: 0.75s;
   }
   #responsive-box .footer {
     width: 100%;
@@ -1121,6 +1123,7 @@ dt {
     position: relative;
     bottom: 670px !important;
     background: url("../images/wallfooterfon.jpg");
+    transition: 0.75s;
   }
   .logo {
     position: relative;
@@ -1155,6 +1158,7 @@ dt {
   .logofigure {
     width: 150px;
     height: 150px;
+    transition: 0.75s;
     background: #1b1b1b;
     -moz-transform: rotate(30deg);
     -ms-transform: rotate(30deg);
@@ -1176,6 +1180,7 @@ dt {
   }
   .menu ul li {
     list-style-type: none;
+    transition: 0.75s;
   }
   .menu ul li a {
     text-decoration: none;
@@ -2797,6 +2802,7 @@ dt {
   body img {
     max-width: 100%;
     height: auto;
+    transition: 0.75s;
   }
   a {
     outline: none;
@@ -3701,6 +3707,7 @@ dt {
   body img {
     max-width: 100%;
     height: auto;
+    transition: 0.75s;
   }
   a {
     outline: none;
@@ -3719,6 +3726,7 @@ dt {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
+    transition: 0.75s;
     -webkit-box-orient: horizontal;
     -webkit-box-direction: normal;
     -ms-flex-direction: row;
@@ -4692,6 +4700,7 @@ dt {
   body img {
     max-width: 100%;
     height: auto;
+    transition: 0.75s;
   }
   a {
     outline: none;
@@ -4707,6 +4716,7 @@ dt {
     max-width: 100%;
     height: auto;
     padding: 5px;
+    transition: 0.75s;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -4729,6 +4739,7 @@ dt {
   #responsive-box .main {
     max-width: 100%;
     height: auto;
+    transition: 0.75s;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -4753,6 +4764,7 @@ dt {
   #responsive-box .footer {
     width: 100%;
     height: auto;
+    transition: 0.75s;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -4847,6 +4859,7 @@ dt {
     font-family: latobold;
     color: #ffffff;
     font-size: 13px;
+    transition: 0.75s;
     height: auto;
     outline: none;
     font-weight: 900;
@@ -5692,6 +5705,7 @@ dt {
   }
   .logo a {
     text-decoration: none;
+    transition: 0.75s;
   }
   .logo a b {
     position: absolute;
@@ -5716,6 +5730,7 @@ dt {
     top: 19px;
     width: 8%;
     z-index: 2;
+    transition: 0.75s;
   }
   .wallheaderfon {
     margin-top: 100px;
@@ -5732,6 +5747,7 @@ dt {
     position: absolute;
     bottom: 785px;
     left: 181px;
+    transition: 0.75s;
   }
   .lorem-ipsum {
     width: 100%;
@@ -5763,6 +5779,7 @@ dt {
     left: 215px;
     width: 30%;
     padding-right: 2px;
+    transition: 0.75s;
   }
   .lorem-ipsum span img {
     position: absolute;
@@ -5775,6 +5792,7 @@ dt {
     top: 90%;
     left: 72%;
     width: 43%;
+    transition: 0.75s;
   }
   .bordart-title {
     height: auto;
@@ -5797,6 +5815,7 @@ dt {
   }
   .bordart-title .art-title {
     width: 100%;
+    transition: 0.75s;
     text-align: center;
   }
   .bordart-title .art-title h2 {
@@ -5869,6 +5888,7 @@ dt {
     top: 95px;
     left: 53px;
     display: none;
+    transition: 0.75s;
   }
   .somearticles-2 {
     width: 35%;
@@ -6065,6 +6085,7 @@ dt {
     transform: rotate(45deg);
   }
   .testimontitle span {
+    transition: 0.75s;
     color: #019edb !important;
     font-size: 64.6px;
     font-family: latoblack;
