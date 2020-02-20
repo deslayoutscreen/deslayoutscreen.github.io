@@ -5165,18 +5165,17 @@ dt {
   .porttext h1 {
     color: #019edb;
     font-family: latoblack;
-    margin-top:59px;
     font-size:15px;
   }
   .porttext h6 {
     color: #1b1b1b;
     font-family: latoregular;
     position:relative;
-    bottom:55px;
+    bottom:43px;
   }
   .porttext rb {
     position: relative;
-    top: 6px;
+    top: 22px;
   }
   .porthombus {
     width: 85px;
