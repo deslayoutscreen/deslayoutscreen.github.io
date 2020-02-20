@@ -5165,7 +5165,7 @@ dt {
   .porttext h1 {
     color: #019edb;
     font-family: latoblack;
-    margin-top:70px;
+    margin-top:56px;
   }
   .porttext h6 {
     color: #1b1b1b;
@@ -5175,7 +5175,7 @@ dt {
   }
   .porttext rb {
     position: relative;
-    top: -10px;
+    top: -2px;
   }
   .porthombus {
     width: 85px;
