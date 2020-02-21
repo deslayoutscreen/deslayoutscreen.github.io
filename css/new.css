@@ -22,6 +22,75 @@
   font-family: Bebas;
   src: url("../fonts/Bebas.woff");
 }
+body, html {
+    height:100%;
+    width:100%;
+}
+.overlayer {
+  width:100%;
+  height:3200px;  
+  position:absolute;
+  z-index:3;
+  background:#000000;
+  opacity: 0.86;
+}
+.loader {
+  display: inline-block;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  z-index:3;
+  border: 3px solid #c92e40;
+  border-bottom: 3px solid green;
+  border-right: 3px solid grey;
+  top: 47.5%;
+  left:47.5%;
+  font-size: 14px;
+  color: #ffffff;
+  animation: loader 2s infinite ease;
+}
+.loader-inner {
+  vertical-align: top;
+  display: inline-block;
+  width: 100%;
+  background-color: #128a3a;
+  animation: loader-inner 2s infinite ease-in;
+  text-align: center;
+}
+@keyframes loader {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(180deg);
+  }
+  50% {
+    transform: rotate(180deg);
+  }
+  75% {
+    transform: rotate(360deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes loader-inner {
+  0% {
+    height: 0%;
+  }
+  25% {
+    height: 0%;
+  }
+  50% {
+    height: 100%;
+  }
+  75% {
+    height: 100%;
+  }
+  100% {
+    height: 0%;
+  }
+}
 body {
   max-width: 1400px;
   height: auto;
