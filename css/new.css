@@ -1001,6 +1001,37 @@ dt {
   a {
     outline: none;
   }
+  .overlayer {
+  width:100%;
+  height:150%;  
+  position:absolute;
+  z-index:3;
+  background:#000000;
+  opacity: 0.86;
+}
+.loader {
+  display: inline-block;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  z-index:3;
+  border: 3px solid #c92e40;
+  border-bottom: 3px solid green;
+  border-right: 3px solid grey;
+  top: 7.5%;
+  left:47.5%;
+  font-size: 14px;
+  color: #ffffff;
+  animation: loader 2s infinite ease;
+}
+.loader-inner {
+  vertical-align: top;
+  display: inline-block;
+  width: 100%;
+  background-color: #128a3a;
+  animation: loader-inner 2s infinite ease-in;
+  text-align: center;
+}
   .porthombus {
     width: 135px;
     height: 135px;
@@ -1990,6 +2021,37 @@ dt {
     max-width: 100%;
     height: auto;
   }
+  .overlayer {
+  width:100%;
+  height:150%;  
+  position:absolute;
+  z-index:3;
+  background:#000000;
+  opacity: 0.86;
+}
+.loader {
+  display: inline-block;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  z-index:3;
+  border: 3px solid #c92e40;
+  border-bottom: 3px solid green;
+  border-right: 3px solid grey;
+  top: 7.5%;
+  left:47.5%;
+  font-size: 14px;
+  color: #ffffff;
+  animation: loader 2s infinite ease;
+}
+.loader-inner {
+  vertical-align: top;
+  display: inline-block;
+  width: 100%;
+  background-color: #128a3a;
+  animation: loader-inner 2s infinite ease-in;
+  text-align: center;
+}
   a {
     outline: none;
   }
@@ -2870,6 +2932,37 @@ dt {
   a {
     outline: none;
   }
+  .overlayer {
+  width:100%;
+  height:150%;  
+  position:absolute;
+  z-index:3;
+  background:#000000;
+  opacity: 0.86;
+}
+.loader {
+  display: inline-block;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  z-index:3;
+  border: 3px solid #c92e40;
+  border-bottom: 3px solid green;
+  border-right: 3px solid grey;
+  top: 7.5%;
+  left:47.5%;
+  font-size: 14px;
+  color: #ffffff;
+  animation: loader 2s infinite ease;
+}
+.loader-inner {
+  vertical-align: top;
+  display: inline-block;
+  width: 100%;
+  background-color: #128a3a;
+  animation: loader-inner 2s infinite ease-in;
+  text-align: center;
+}
   #responsive-box {
     height: auto;
     margin: 0 auto;
@@ -3767,6 +3860,37 @@ dt {
     overflow-x: hidden;
     transition: 0.75s;
   }
+  .overlayer {
+  width:100%;
+  height:150%;  
+  position:absolute;
+  z-index:3;
+  background:#000000;
+  opacity: 0.86;
+}
+.loader {
+  display: inline-block;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  z-index:3;
+  border: 3px solid #c92e40;
+  border-bottom: 3px solid green;
+  border-right: 3px solid grey;
+  top: 7.5%;
+  left:47.5%;
+  font-size: 14px;
+  color: #ffffff;
+  animation: loader 2s infinite ease;
+}
+.loader-inner {
+  vertical-align: top;
+  display: inline-block;
+  width: 100%;
+  background-color: #128a3a;
+  animation: loader-inner 2s infinite ease-in;
+  text-align: center;
+}
   body img {
     max-width: 100%;
     height: auto;
@@ -4772,6 +4896,37 @@ dt {
     background: #ffffff;
     overflow-x: hidden;
   }
+  .overlayer {
+  width:100%;
+  height:150%;  
+  position:absolute;
+  z-index:3;
+  background:#000000;
+  opacity: 0.86;
+}
+.loader {
+  display: inline-block;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  z-index:3;
+  border: 3px solid #c92e40;
+  border-bottom: 3px solid green;
+  border-right: 3px solid grey;
+  top: 7.5%;
+  left:47.5%;
+  font-size: 14px;
+  color: #ffffff;
+  animation: loader 2s infinite ease;
+}
+.loader-inner {
+  vertical-align: top;
+  display: inline-block;
+  width: 100%;
+  background-color: #128a3a;
+  animation: loader-inner 2s infinite ease-in;
+  text-align: center;
+}
   #responsive-box .header {
     max-width: 100%;
     height: auto;
@@ -5756,6 +5911,37 @@ dt {
   a {
     outline: none;
   }
+  .overlayer {
+  width:100%;
+  height:150%;  
+  position:absolute;
+  z-index:3;
+  background:#000000;
+  opacity: 0.86;
+}
+.loader {
+  display: inline-block;
+  width: 52px;
+  height: 52px;
+  position: absolute;
+  z-index:3;
+  border: 3px solid #c92e40;
+  border-bottom: 3px solid green;
+  border-right: 3px solid grey;
+  top: 7.5%;
+  left:47.5%;
+  font-size: 14px;
+  color: #ffffff;
+  animation: loader 2s infinite ease;
+}
+.loader-inner {
+  vertical-align: top;
+  display: inline-block;
+  width: 100%;
+  background-color: #128a3a;
+  animation: loader-inner 2s infinite ease-in;
+  text-align: center;
+}
   .logo {
     position: relative;
     bottom: 27px;
