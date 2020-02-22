@@ -44,7 +44,6 @@ body, html {
   border-bottom: 3px solid green;
   border-right: 3px solid grey;
   top: 7.5%;
-  left:47.5%;
   font-size: 14px;
   color: #ffffff;
   animation: loader 2s infinite ease;
@@ -55,8 +54,7 @@ body, html {
   width: 100%;
   background-color: #128a3a;
   animation: loader-inner 2s infinite ease-in;
-  text-align: center;
-}
+ }
 @keyframes loader {
   0% {
     transform: rotate(0deg);
@@ -1019,7 +1017,6 @@ dt {
   border-bottom: 3px solid green;
   border-right: 3px solid grey;
   top: 7.5%;
-  left:47.5%;
   font-size: 14px;
   color: #ffffff;
   animation: loader 2s infinite ease;
@@ -1030,7 +1027,6 @@ dt {
   width: 100%;
   background-color: #128a3a;
   animation: loader-inner 2s infinite ease-in;
-  text-align: center;
 }
   .porthombus {
     width: 135px;
@@ -2039,7 +2035,6 @@ dt {
   border-bottom: 3px solid green;
   border-right: 3px solid grey;
   top: 7.5%;
-  left:47.5%;
   font-size: 14px;
   color: #ffffff;
   animation: loader 2s infinite ease;
@@ -2050,7 +2045,6 @@ dt {
   width: 100%;
   background-color: #128a3a;
   animation: loader-inner 2s infinite ease-in;
-  text-align: center;
 }
   a {
     outline: none;
@@ -2950,7 +2944,6 @@ dt {
   border-bottom: 3px solid green;
   border-right: 3px solid grey;
   top: 7.5%;
-  left:47.5%;
   font-size: 14px;
   color: #ffffff;
   animation: loader 2s infinite ease;
@@ -2961,8 +2954,7 @@ dt {
   width: 100%;
   background-color: #128a3a;
   animation: loader-inner 2s infinite ease-in;
-  text-align: center;
-}
+ }
   #responsive-box {
     height: auto;
     margin: 0 auto;
@@ -3877,8 +3869,6 @@ dt {
   border: 3px solid #c92e40;
   border-bottom: 3px solid green;
   border-right: 3px solid grey;
-  top: 7.5%;
-  margin: 0% 46.6%;
   font-size: 14px;
   color: #ffffff;
   animation: loader 2s infinite ease;
@@ -3890,8 +3880,7 @@ dt {
   width: 100%;
   background-color: #128a3a;
   animation: loader-inner 2s infinite ease-in;
-  text-align: center;
-}
+ }
   body img {
     max-width: 100%;
     height: auto;
@@ -4915,7 +4904,6 @@ dt {
   border-bottom: 3px solid green;
   border-right: 3px solid grey;
   top: 7.5%;
-  margin: 0% 42.89%;
   font-size: 14px;
   color: #ffffff;
   animation: loader 2s infinite ease;
@@ -5930,7 +5918,6 @@ dt {
   border-bottom: 3px solid green;
   border-right: 3px solid grey;
   top: 7.5%;
-  margin: 0% 42.5%;
   font-size: 14px;
   color: #ffffff;
   animation: loader 2s infinite ease;
@@ -5941,8 +5928,7 @@ dt {
   width: 100%;
   background-color: #128a3a;
   animation: loader-inner 2s infinite ease-in;
-  text-align: center;
-}
+ }
   .logo {
     position: relative;
     bottom: 27px;
