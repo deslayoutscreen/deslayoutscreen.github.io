@@ -5801,7 +5801,7 @@ dt {
     margin: 0 auto;
     position: relative;
     bottom: 100px;
-    left: 5px;
+    left: 213px;
     padding: 0.2%;
   }
   .textemail h4 {
@@ -5819,15 +5819,15 @@ dt {
   }
   .textemail img {
     position: relative;
-    bottom: 147px;
-    right: 31px;
+    bottom: 139px;
+    right: 49px;
   }
   .textcall {
     width: 30%;
     margin: 0 auto;
     position: relative;
-    top: 20px;
-    right: 105px;
+    top: 21px;
+    right: 67px;
     padding: 0.2%;
   }
   .textcall h4 {
@@ -5846,14 +5846,14 @@ dt {
   .textcall img {
     position: relative;
     bottom: 147px;
-    left: -35px;
+    left: -59px;
   }
   .textaddress {
     width: 30%;
     margin: 0 auto;
     position: relative;
     top: 20px;
-    right: 40px;
+    right: 5px;
   }
   .textaddress h4 {
     font-family: latoblack;
