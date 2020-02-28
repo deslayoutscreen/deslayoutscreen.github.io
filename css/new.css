@@ -5243,7 +5243,7 @@ dt {
     font-family: latoregular;
     font-size: 12px;
     color: #ffffff;
-    margin-bottom:30px;
+    padding-bottom:50px;
   }
   .art-border {
     width: 11.6%;
@@ -5293,7 +5293,7 @@ dt {
     font-family: latoregular;
     font-size: 12px;
     color: #ffffff;
-    margin-bottom:30px;
+    padding-bottom:50px;
   }
   .portfolio-content img {
     width: 100%;
