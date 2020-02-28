@@ -1331,7 +1331,7 @@ dt {
     border-radius: 20px 20px;
     padding: 8px 8px;
     outline: none;
-    margin-bottom: 100px;
+    margin-bottom: 0px;
   }
   rb a {
     text-decoration: none;
@@ -2238,7 +2238,7 @@ dt {
     border-radius: 20px 20px;
     padding: 8px 8px;
     outline: none;
-    margin-bottom: 100px;
+    margin-bottom: 0px;
   }
   rb a {
     text-decoration: none;
@@ -3142,7 +3142,7 @@ dt {
     border-radius: 20px 20px;
     padding: 8px 8px;
     outline: none;
-    margin-bottom: 100px;
+    margin-bottom: 0px;
   }
   rb a {
     text-decoration: none;
