@@ -5227,13 +5227,13 @@ dt {
   }
   .somearticles-1 {
     width: 30%;
-    height: 217px;
+    height: 230px;
     text-align: left;
     padding: 1.2%;
     background: #373636;
     opacity: 0.7;
     position: relative;
-    top: 35px;
+    bottom:5px;
   }
   .somearticles-1 h3 {
     color: #ffffff;
@@ -5275,14 +5275,14 @@ dt {
   }
   .somearticles-2 {
     width: 30%;
-    height: 217px;
+    height: 230px;
     text-align: left;
     padding: 1.2%;
     background: #373636;
     margin-top: 40px;
     opacity: 0.7;
     position: relative;
-    top: 35px;
+    bottom:5px;
   }
   .somearticles-2 h3 {
     color: #ffffff;
